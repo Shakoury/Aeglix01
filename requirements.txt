@@ -1,0 +1,8 @@
+# Requirements for AI-Powered Task Recommender System
+
+numpy
+pandas
+scikit-learn
+tensorflow
+flask
+requests
